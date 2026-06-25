@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: deploy
+app:
+  message: "Hola mundo desde el desarrollo"
+  varexample: ${USERNAME}
